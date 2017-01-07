@@ -1,2 +1,7 @@
-# HW-1
-Homework -1
+# COM S 453X
+# Homework -1
+
+| **Assigned on** | |
+| **Due on** | |
+
+In this assignment you will prepare the necessary resources
