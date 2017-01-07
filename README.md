@@ -2,7 +2,7 @@
 
 | Assignment Dates | |
 | --- | --- |
-| **Assigned on**: | |
+|**Assigned on**: | |
 |**Due on**: | |
 |**Accepted on**: | |
 
@@ -10,8 +10,9 @@
 
 |Deliverable | Points Awarded | Maximum Points |
 |---|---|---|
-| Git 101 Tutorial | | 5 |
+| Grok Git | | 5 |
 | Master Markdown | | 5 |
+| Learn LaTeX | | 5 |
 
 ## Introduction
 
@@ -23,7 +24,7 @@ proficiency with three main tools:
 2. Markdown
 3. LaTeX
 
-## Git
+## Grokking Git
 
 Git is a version control system used for tracking changes and coordinating work on digital files among multiple people.
 Version control, or revision/source control is a way to manage changes on documents, code, or other data to allow 
@@ -40,7 +41,7 @@ about why using revision control in higher education is important for your futur
   [here](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   for going deeper into your learning about git and Github.
 
-## Markdown
+## Mastering Markdown
 
 Since we will be using git for all assignments in this class, it will
 be important for you to learn **Markdown**.  Markdown is a lightweight
@@ -53,4 +54,61 @@ code the file you are reading.
 - [ ] Read the *Mastering Markdown* guide available
   [here](https://guides.github.com/features/mastering-markdown/).
 - [ ] In your checked out homework, make sure you click the boxes for
-  this assignment of completed objectives, and commit the changes to git!
+  this assignment of completed objectives, and commit the changes to
+  git!
+
+Markdown was originally developed by John Gruber of
+[Daring Fireball](daringfireball.net), he's written about markdown
+[here](http://daringfireball.net/projects/markdown/).
+
+## Learn LaTeX
+
+While Markdown is great for README files, and for general
+communication and notation, it really fails when it comes to
+mathematics, and other important science and technology communication
+related topics, like graphs and figures.  Lucky for us, there is
+LaTeX.  LaTeX is a document preparation system designed to allow users
+to write up scientific and mathematical results easily, quickly, and
+in a format-agnostic manner which can be templated, styled, and
+modified without changing the text itself.  This makes it different
+from word processors like LibreOffice, MS Word, or Google Docs in
+which formatting informating is explicitly set in the text.
+
+For this last part of Homework -1, you will need to use your git
+skills to check out a homework template from Github, make
+modifications in LaTeX, and compile a final PDF of your assignment for
+submission.
+
+- [ ] Check out the basic LaTeX template from git: https://github.com/IowaStateRozier/LaTeXHomeworkTemplate
+- [ ] Bookmark the [wikibook](https://en.wikibooks.org/wiki/LaTeX) on LaTeX, it answers any question you are
+  likely to have, including very advanced ones.  Don't try and read
+  the whole thing today, it's very long!
+- [ ] Bookmark the LaTeX
+  [cheat sheet](http://www.ctan.org/tex-archive/info/latexcheat/latexcheat/latexsheet.pdf),
+  it will come in handy!
+- [ ] Make sure you have LaTeX
+  [installed](https://en.wikibooks.org/wiki/LaTeX/Installation) on
+  your machine.  It is available for all operating systems.  Some
+  people prefer to work with LaTeX
+  [online](https://en.wikibooks.org/wiki/LaTeX/Installation#Online_solutions)
+  with an editor in their browser, like
+  [Overleaf](https://en.wikibooks.org/wiki/LaTeX/Installation#Online_solutions)
+  or [ShareLaTeX](https://www.sharelatex.com/).  I do not recommend
+  this, but it is your choice.  As Computer Scientists you are better
+  off learning to use a developer friendly editor like
+  [Emacs](https://en.wikibooks.org/wiki/Emacs), or
+  [vi](https://en.wikibooks.org/wiki/Learning_the_vi_Editor).
+
+Create a directory in the repository for this homework, copy over the
+template you checked out for git, and look for a comment labeled:
+    % Homework Details
+
+Below this you will find a section you can tailor for your
+assignment in the form of `\newcommand` directives.  This work a bit
+like a variable, `#define`, or other alias-type command.  Update their
+definitions to set up your assignment.
+
+Read the [basics](https://en.wikibooks.org/wiki/LaTeX/Basics) section
+of the LaTeX wikibook to learn about the commands in this homework
+template.  Compile your new document as a PDF, and commit the changed
+file to your repository.  Make sure to push your changes!
