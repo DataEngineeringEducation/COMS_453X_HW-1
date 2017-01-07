@@ -1,6 +1,8 @@
 # COM S 453X Homework -1
-**Assigned on**:
-**Due on**:
+
+| --- | --- |
+| **Assigned on**: | |
+**Due on**: | |
 
 ## Grading Rubric
 
