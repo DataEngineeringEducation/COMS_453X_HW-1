@@ -1,8 +1,10 @@
 # COM S 453X Homework -1
 
+| Assignment Dates | |
 | --- | --- |
 | **Assigned on**: | |
-**Due on**: | |
+|**Due on**: | |
+|**Accepted on**: | |
 
 ## Grading Rubric
 
