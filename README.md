@@ -4,9 +4,9 @@
 
 ## Grading Rubric
 
-Deliverable | Points Awarded | Maximum Points 
---|--|--
-Completion of Git Tutorials | | 5 
+|Deliverable | Points Awarded | Maximum Points |
+|---|---|---|
+|Completion of Git Tutorials | | 5 |
 
 ## Introduction
 
