@@ -10,9 +10,12 @@
 
 |Deliverable | Points Awarded | Maximum Points |
 |---|---|---|
+| Basic Branch | | 5 |
 | Grok Git | | 5 |
 | Master Markdown | | 5 |
 | Learn LaTeX | | 5 |
+| Total Score | | 20 |
+| Slip days used | | |
 
 ## Introduction
 
@@ -23,6 +26,15 @@ proficiency with three main tools:
 1. Git
 2. Markdown
 3. LaTeX
+
+You've already started this assignment by accepting the link you
+received through Github classroom!  Your next step will be to create a
+branch of this assignment.  **Always create a branch as a first
+step!** You will submit your final assignment by creating a pull
+request for the branch.  This pull request will be used as the
+collection date for your assignment.  Your assignment will be graded
+in a separate branch, and links to these versions will be used as your
+official assignment.
 
 ## Grokking Git
 
@@ -120,3 +132,8 @@ template.
 
 - [ ] Compile your new document as a PDF.
 - [ ] Commit the changed file to your repository.  Make sure to push your changes!
+
+Lastly...
+
+- [ ] Create a pull request for your branch! (You did remember to
+  build a branch didn't you?)
