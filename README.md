@@ -2,8 +2,8 @@
 
 | Assignment Dates | |
 | --- | --- |
-|**Assigned on**: | |
-|**Due on**: | |
+|**Assigned on**: | January 10th, 2016 |
+|**Due on**: | January 12th, 2016 |
 |**Accepted on**: | |
 
 ## Grading Rubric
